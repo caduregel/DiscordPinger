@@ -14,5 +14,8 @@
     "bot"
   ],
   "author": "JustWolf#7404",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
 }
